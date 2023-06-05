@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost"; // Dirección del servidor de la base de datos
-$dBUsername = "id20857778_pasarondb"; // Nombre de usuario de la base de datos
-$dBPassword = "ncr7y82tA3%"; // Contraseña de la base de datos
-$dBName = "id20857778_pasarondb"; // Nombre de la base de datos
+$servername = "xxx"; // Dirección del servidor de la base de datos
+$dBUsername = "xxx"; // Nombre de usuario de la base de datos
+$dBPassword = "xxx"; // Contraseña de la base de datos
+$dBName = "xxx"; // Nombre de la base de datos
 
 $conn = mysqli_connect($servername, $dBUsername, $dBPassword, $dBName); // Conexión a la base de datos
 
